@@ -1,0 +1,23 @@
+aula 1)
+chmod +x  ... permissão para execução
+
+Aula3)
+comandos terminal:
+ls -l ...mostra todas informações
+ls -a ... mostra ocutos
+ls -la ..faz os dois acima
+man <comando> .. mostra manual do comando
+cp <copiado> <copia> ..criar uma copia
+mv <arquivo_antigo> <arquivo_novo> ... renomeia o arquivo
+cat <nome_do_arquivo> .. mostra o que tem dentro do arquivo
+more <nome_do_arquivo> ..mostra arquivo grande de um jeito mais da hora
+less <nome_do_arquivo> ...mostra d eum jeito da hora
+tail <nome_do_arquivo> ... mostra so o final do arquivo
+head <nome_do_arquivo> ... mostra so o começo do arquivo
+cd ~ ... vai para pasta home
+touch <nome_do_arquivo> ... cria um novo arquivo em branco
+nano <nome_do_arquivo> ... entra no editor nano com o arquivo especificado
+vim  <nome_do_arquivo> ... editor de texto mais poderoso
+
+~ ... significa que esta na pasta home
+# ... signfica que esta usando como root

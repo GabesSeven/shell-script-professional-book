@@ -1,0 +1,4 @@
+java eh legal 
+java nao e legal
+python java 
+php e legal

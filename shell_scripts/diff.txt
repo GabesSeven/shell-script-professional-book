@@ -1,0 +1,4 @@
+4c4
+< C foi criada por Dennis Ritchie
+---
+> C foi criada por Gabriel Vieira
