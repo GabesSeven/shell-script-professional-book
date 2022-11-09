@@ -10,7 +10,7 @@
   <a href="https://www.amazon.com.br/Script-Profissional-Aurelio-Marinho-Jargas/dp/8575221523">https://www.amazon.com.br/Script-Profissional-Aurelio-Marinho-Jargas/dp/8575221523</a>
   <br>
   <br>
-  Scripts developed to absorb the content of the Book "Shell Script Profissional" by Aurelio Marinho Jargas.  
+  Scripts developed to absorb the content of the Book "Professional Shell Script" by Aurelio Marinho Jargas.  
 </p>
 
 <hr>
