@@ -23,7 +23,7 @@ You can [access the project's source code](https://github.com/GabesSeven/shell-s
 
 ## ✔️ Techniques and technologies used
 
-- ``bash``
+- ``shell``
 
 <hr>
 
